@@ -1,0 +1,6 @@
+# makepkg 产物（二进制包走 GitHub Release 附件，不进 git）
+src/
+pkg/
+*.pkg.tar.zst
+*.pkg.tar.xz
+*.tgz
